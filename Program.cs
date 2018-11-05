@@ -11,7 +11,7 @@ namespace Lab18Part2
     {
         static void Main(string[] args)
         {
-            /* */
+            /*first part Big O estimate is O(n) because it's linear */
             int _0counter = 0;
             int _1counter = 0;
             int _2counter = 0;
